@@ -7,9 +7,9 @@ function App() {
     <>
     <Navbar />
     <Head />
-      <div className="mt-5 text-center">
+      {/* <div className="mt-5 text-center">
         Hello
-      </div>
+      </div> */}
     </>
   );
 }
