@@ -17,7 +17,7 @@ function Head() {
                     <a className="btn myButton btn-lg mt-3 mt-md-5 rounded-5" href="/">Contact</a>
                 </div>
                 <div className="col-md-6 col-12 my-4">
-                    <img src={MyImg} className="rounded-5 my-auto mw-100" alt="Abhinav Agrawal" />
+                    <img src={MyImg} className="rounded-5 my-auto mw-100" loading="lazy" alt="Abhinav Agrawal" />
                 </div>
             </div>
 
