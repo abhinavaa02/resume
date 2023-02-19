@@ -12,7 +12,7 @@ function Head() {
             <div className="text-center row first-intro w-100 h-100">
                 <div className="col-md-6 col-12 m-auto">
                     <h1 className="intro-head col-md-6 col-10 mx-auto text-wrap">
-                        Hi, I am Abhinav, a Web developer
+                        Hi, I am Abhinav, a Web developer hello
                     </h1>
                     <a className="btn myButton btn-lg mt-3 mt-md-5 rounded-5" href="/">Contact</a>
                 </div>
