@@ -14,3 +14,7 @@ code {
 .react-month-picker .calendar-container {
   left: 0;
 }
+.nav-image {
+  height: 2.3rem;
+  width: 2.3rem;
+}
